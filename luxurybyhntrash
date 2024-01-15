@@ -1,0 +1,3 @@
+_G.KeyLuxury = "hndeptrai"
+_G.DiscordServer = ".gg/hngaming"
+loadstring(game:HttpGet("https://www.hngaming.tk/luxuryhnhn.txt"))()
